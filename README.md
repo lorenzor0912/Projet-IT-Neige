@@ -6,7 +6,8 @@
   - [Capteur 📸](#capteur)
   - [Carte 📺](#carte)
   - [Communications 📡](#communications)
-- [Stockage 💾](#Stockage)
+  - [Stockage 💾](#Stockage)
+- [Software 🦠](#hardware) 
 
 ## Hardware 🛠️
 
