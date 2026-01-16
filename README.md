@@ -108,6 +108,8 @@ ou
 
 ![Image Alt](https://github.com/lorenzor0912/Projet-IT-Neige/blob/77a881eeabc7f3ce35e2152226ed993d40b5088b/ReadMe_IMG/Waveshare%20ESP32-S3-SIM7670G%20.jpg)
 
+Metion Spécial a Waveshare ESP32-P4-Module High-performance Development Board puissance monstrueuse [ESP32-P4](https://www.waveshare.com/esp32-p4-module-dev-kit.htm?sku=30560)
+
 
 ### Communications
 
