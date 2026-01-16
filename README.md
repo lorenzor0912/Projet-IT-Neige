@@ -110,6 +110,13 @@ ou
 
 ### Communications
 
+Via 4g
+
+### Stockage
+
+Sachant que nos deux microcontrolleurs ont tous deux un port de carte sd il faut le code et la carte sd!
+
+
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
 <pre>
