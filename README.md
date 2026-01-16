@@ -2,12 +2,13 @@
 
 ## Table des matières 📖
 
-- [Hardware🛠️](#hardware)
+- [Hardware 🛠️](#hardware)
   - [Capteur](#capteur)
   - [Carte](#carte)
+  - [Communications📡](#communications)
 - [Captures d'écran](#captures-décran)
 
-## Hardware
+## Hardware 🛠️
 
 ### Capteur
 
@@ -34,6 +35,7 @@ You can add an image or a code block, too.
 
 ### Carte
 
+### Communications 📡
 
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
