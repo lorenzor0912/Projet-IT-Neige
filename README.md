@@ -95,6 +95,19 @@ Est ce meme possible sur arduino?
 
 - **Pas de deep sleep efficace** pour une longue autonomie sur batterie.Ce qui est possible avec un Arduino Uno/Mega
 
+Verdict:
+
+- LILYGO T-A7670G
+
+![Image Alt](ok)
+
+ou
+
+- Waveshare ESP32-S3-SIM7670G (plus chère mais esp32S3 donc plus puissant)
+
+![Image Alt](ok2)
+
+
 ### Communications
 
 
