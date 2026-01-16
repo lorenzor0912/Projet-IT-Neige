@@ -99,7 +99,7 @@ Verdict:
 
 - LILYGO T-A7670G
 
-![Image Alt](ok)
+![Image Alt](https://github.com/lorenzor0912/Projet-IT-Neige/blob/37954bfae3c905698f36f1f2322b11fd72cf41e0/ReadMe_IMG/LILYGO%20T-A7670G.jpg)
 
 ou
 
