@@ -8,14 +8,14 @@
 
 
 - [Hardware](#hardware)
-  - [Lancer le serveur](#lancer-le-serveur)
+  - [Capteur Principa](#capteur-principal)
   - [Tester avec curl](#tester-avec-curl)
 - [Captures d'écran](#captures-décran)
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
 ## Hardware
-
+  - ###Capteur Principal
 
 ## Prérequis
 
