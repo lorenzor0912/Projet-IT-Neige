@@ -2,10 +2,10 @@
 
 ## Table des matières 📖
 
-- [Hardware 🛠️](#hardware-🛠️)
+- [Hardware](#hardware)
   - [Capteur](#capteur)
   - [Carte](#carte)
-  - [Communications 📡](#communications-📡)
+  - 📡[Communications](#communications)
 - [💾](#captures-décran)
 
 ## Hardware 🛠️
@@ -18,7 +18,8 @@ SEN0313 par DF Robot (ip67) [Digikey](https://www.digikey.fr/fr/products/detail/
 
 <summary>Capteur Specs</summary>
 
-### Test
+### Specifications Techniques
+
 Type : Capteur de distance ultrasonique étanche (waterproof & dustproof, IP67)
 
 Plage de mesure : 28 cm à 750 cm (soit jusqu'à 7,5 mètres)
@@ -41,7 +42,7 @@ Autres points forts :
 
 ### Carte
 
-### Communications 📡
+### 📡 Communications
 
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
