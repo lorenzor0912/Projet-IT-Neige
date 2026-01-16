@@ -59,6 +59,7 @@ All in One (Esp seulement)
 | **ESP32 + module SIM7600/SIM76xx séparé** | ESP32   | LTE Cat-4      | Externe     | Externe| Externe                 | Variable (40-80 €+) | Plus rapide en 4G (uploads/downloads), mais montage câblage + cher + plus compliqué     |
 
 
+
 Est ce meme possible sur arduino?
 
 ### Comparaison : ESP32 tout-en-un vs Arduino classique + modules séparés
