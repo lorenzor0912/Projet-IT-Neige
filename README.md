@@ -33,8 +33,8 @@ SEN0313 par DF Robot (ip67) [Digikey](https://www.digikey.fr/fr/products/detail/
 
 - Autres points forts :
 
--Livré avec un cône (bell mouth) amovible pour optimiser la portée et la directivité
--Résistant à la poussière, au brouillard, à la fumée (meilleure pénétration que les HC-SR04 classiques)
+  - Livré avec un cône (bell mouth) amovible pour optimiser la portée et la directivité
+  - Résistant à la poussière, au brouillard, à la fumée (meilleure pénétration que les HC-SR04 classiques)
 
 </details>
 
