@@ -1,4 +1,4 @@
-# Projet-IT-Neige
+# Projet-IT-Neige ❄️🌨️
 
 ## Table des matières 📖
 
