@@ -11,7 +11,7 @@
 
 <div style="line-height: 0.8; font-family: 'Courier New', monospace;">
 <pre>
-Made with love by
+Made with love by :
    
    _____ _   _ ___  _____    _           _         
   / ____| | (_)__ \|  __ \  | |         | |        
@@ -19,6 +19,7 @@ Made with love by
   \___ \| __| | / /| |  | | | |    / _` | '_ \/ __|
   ____) | |_| |/ /_| |__| | | |___| (_| | |_) \__ \
  |_____/ \__|_|____|_____/  |______\__,_|_.__/|___/
+                                                   
                                                    
 </pre>
 </div>
