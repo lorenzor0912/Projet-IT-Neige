@@ -5,7 +5,7 @@
 - [Hardware 🛠️](#hardware)
   - [Capteur](#capteur)
   - [Carte](#carte)
-  - [Communications📡](#communications)
+  - [Communications 📡](#communications)
 - [Captures d'écran](#captures-décran)
 
 ## Hardware 🛠️
