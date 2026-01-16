@@ -7,6 +7,7 @@
   - [Carte 📺](#carte)
   - [Communications 📡](#communications)
   - [Stockage 💾](#Stockage)
+  - [Fonction Webcam Possible 🎥](#Webcam)
 - [Software 🦠](#hardware) 
 
 ## Hardware 🛠️
@@ -116,6 +117,9 @@ Via 4g
 
 Sachant que nos deux microcontrolleurs ont tous deux un port de carte sd il faut le code et la carte sd!
 
+### Webcam
+
+certains carte all in one on meme des mini camera (par ex waveshare) donc peut se reveler interessant
 
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
