@@ -1,8 +1,8 @@
 # Projet-IT-Neige
 
-## Table des matières
+## Table des matières 📖
 
-- [Hardware](#hardware)
+- [Hardware🛠️](#hardware)
   - [Capteur](#capteur)
   - [Carte](#carte)
 - [Captures d'écran](#captures-décran)
