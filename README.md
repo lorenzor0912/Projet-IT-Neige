@@ -95,14 +95,6 @@ Est ce meme possible sur arduino?
 
 - **Pas de deep sleep efficace** pour une longue autonomie sur batterie.Ce qui est possible avec un Arduino Uno/Mega
 
-- Oui, **on** peut connecter un shield SIM7600 ou A7670 (exemples : DFRobot SIM7600G-H shield, TinySine, etc.) qui intègre souvent 4G + GPS + parfois un slot SD.
-
-- Des exemples existent : envoi de SMS, appels vocaux, requêtes HTTP, lecture GPS NMEA via commandes AT.
-
-- **On** peut aussi ajouter un module SD séparé (en SPI) et un GPS externe si le shield ne propose pas tout.
-
-**Mais dans la réalité :
-
 ### Communications
 
 
