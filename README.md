@@ -16,9 +16,8 @@ SEN0313 par DF Robot (ip67) [Digikey](https://www.digikey.fr/fr/products/detail/
 
 <details>
 
-<summary>Capteur Specs</summary>
+<summary>Specifications Techniques</summary>
 
-### Specifications Techniques
 
 Type : Capteur de distance ultrasonique étanche (waterproof & dustproof, IP67)
 
@@ -42,7 +41,7 @@ Autres points forts :
 
 ### Carte
 
-###Communications
+### Communications
 
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
