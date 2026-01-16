@@ -13,6 +13,23 @@
 
 SEN0313 par DF Robot (ip67) [Digikey](https://www.digikey.fr/fr/products/detail/dfrobot/SEN0313/11202720)
 
+<details>
+
+<summary>Capteur</summary>
+
+### Test
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello Maker"
+```
+
+</details>
+
+
 ![Image Alt](https://github.com/lorenzor0912/Projet-IT-Neige/blob/f1702dfe2ce56fabe681698466927644a630968b/ReadMe_IMG/SEN0313.JPG)
 
 ### Carte
