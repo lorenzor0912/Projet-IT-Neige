@@ -8,14 +8,15 @@
 
 
 - [Hardware](#hardware)
-  - [Capteur Principa](#capteur-principal)
+  - [Capteur Principal](#capteur-principal)
   - [Tester avec curl](#tester-avec-curl)
 - [Captures d'écran](#captures-décran)
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
 ## Hardware
-  - ###Capteur Principal
+- ###Capteur Principal
+- 
 
 ## Prérequis
 
