@@ -48,7 +48,7 @@ SEN0313 par DF Robot aussi connu sous A01NYUB (identique) [DF Robot](https://www
 
 ### Carte
 
-All in One
+All in One (Esp seulement)
 
 | Carte / Module                        | ESP32       | 4G              | GPS          | microSD | Batterie 18650 + charge | Prix approx. (2026) | Remarques / quand choisir                                                                 |
 |---------------------------------------|-------------|-----------------|--------------|---------|--------------------------|---------------------|-------------------------------------------------------------------------------------------|
