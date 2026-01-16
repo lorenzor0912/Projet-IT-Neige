@@ -19,3 +19,36 @@
                                                    
 </pre>
 </div>
+
+
+
+
+- [Présentation](#présentation)
+- [Prérequis](#prérequis)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+  - [Lancer le serveur](#lancer-le-serveur)
+  - [Tester avec curl](#tester-avec-curl)
+- [Captures d'écran](#captures-décran)
+- [Contribuer](#contribuer)
+- [Licence](#licence)
+
+## Présentation
+
+Ceci est mon super projet...
+
+## Prérequis
+
+- Python 3.10+
+- ...
+
+## Installation
+
+```bash
+git clone ...
+pip install -r requirements.txt
+
+
+<div align="right">
+  <a href="#table-des-matières">↑ Retour en haut</a>
+</div>
