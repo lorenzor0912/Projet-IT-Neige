@@ -44,10 +44,6 @@ Ceci est mon super projet...
 
 ## Installation
 
-```bash
-git clone ...
-pip install -r requirements.txt
-
 
 <div align="right">
   <a href="#table-des-matières">↑ Retour en haut</a>
