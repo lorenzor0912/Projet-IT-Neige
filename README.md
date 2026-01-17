@@ -113,7 +113,8 @@ ou
 
 ### Communications
 
-Via 4g
+- Via 4g
+- possibitlité et intéret pour relais/émetteur [meshtastic](https://meshtastic.org/)
 
 ### Stockage
 
