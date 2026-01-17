@@ -114,11 +114,18 @@ ou
 ### Communications
 
 - Via 4g
-- possibitlité et intéret pour relais/émetteur [meshtastic](https://meshtastic.org/)
+- possibitlité et intéret pour relais/émetteur [meshtastic](https://meshtastic.org/) ???
 
 ### Stockage
 
-Sachant que nos deux microcontrolleurs ont tous deux un port de carte sd il faut le code et la carte sd!
+Sachant que nos deux microcontrolleurs (qui représente le choix le plus economique puissant et logique) ont tous deux un port de carte sd il ne faut plus que coder et avoir une carte sd!
+
+Estimation d'espace necessaire :
+
+- On sait que:
+  - le système doit tenir 4 mois
+  - doit enregistrer   
+
 
 ### Webcam
 
