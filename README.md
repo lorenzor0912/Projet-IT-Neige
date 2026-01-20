@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://github.com/lorenzor0912/Projet-IT-Neige/blob/fe72028023a4363fe13b78c3d9f3f6932c6b1fcf/ReadMe_IMG/It%20neige.svg" 
        alt="Logo" 
-       width="180" 
-       height="auto" />
+       width="500" 
+       height="500" />
 </div>
 
 ## Table des matières 📖
