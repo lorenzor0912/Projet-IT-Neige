@@ -1,5 +1,12 @@
 # Projet-IT-Neige ❄️🌨️
 
+<div align="center">
+  <img src="https://github.com/lorenzor0912/Projet-IT-Neige/blob/3a26d4a8eb1cb08ab78cd12ca674432d98ffe7aa/ReadMe_IMG/It%20neige.svg" 
+       alt="Logo" 
+       width="180" 
+       height="auto" />
+</div>
+
 ## Table des matières 📖
 
 - [Hardware 🛠️](#hardware)
