@@ -46,7 +46,7 @@ SEN0313 par DF Robot aussi connu sous A01NYUB (identique) [DF Robot](https://www
 
 - Plage de mesure : 28 cm à 750 cm (soit jusqu'à 7,5 mètres)
 
-- Resolution : 1mm 
+- Resolution : 1cm 
 
 - Interface de communication : UART (série asynchrone, très simple à utiliser)
 
