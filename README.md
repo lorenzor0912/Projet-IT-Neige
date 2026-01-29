@@ -161,21 +161,31 @@ certains carte all in one on meme des mini camera (par ex waveshare) donc peut s
 
 ### Matériaux
 
-| Critère                          | ASA              | PC (Polycarbonate) | PETG             | Nylon            |
-|----------------------------------|------------------|--------------------|------------------|------------------|
-| Résiste bien à -30°C (pas cassant) | ✅               | ✅✅ (très souple)  | ✅               | ✅               |
-| Durée 10 ans UV + intempéries    | ✅✅ (meilleur UV)| ✅               | ❌ (jaunit/craque après quelques années) | ❌ (dégrade si humide) |
-| Étanchéité / neige & humidité    | ✅               | ✅ (mais sèche bien) | ✅✅ (très hydrophobe) | ❌ (absorbe l'eau) |
-| Reste étanche longtemps          | ✅               | ✅               | ✅               | ❌               |
-| Facile à imprimer                | 🟠 Moyen | ❌❌ (dur)     | ✅✅ (facile)     | ❌ (séchage obligatoire) |
-| Résistance chocs au froid        | ✅               | ✅✅ (top)         | ✅               | ✅               |
+### Comparaison filaments extrêmes : -30°C / 10 ans neige/UV/humidité ❄️⛄
 
-**Verdict rapide**  
-✅ **ASA** → Le gagnant global pour cet usage (meilleur équilibre UV/long terme/neige sans trop de galères).  
-✅ **PC** → Pour max de solidité chocs au froid extrême (mais impression plus chiante).  
-PETG → OK si pas trop d'années ou pas plein soleil, Nylon → à éviter pour humidité/neige prolongée.
+| Critère                              | ASA-CF       | PETG-CF      | PET          | ABS          | PLA          | ASA (std)    | PC           | PETG (std)   | Nylon (PA)   |
+|--------------------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| Résiste bien à -30°C (pas cassant)   | ✅✅         | ✅✅         | ✅           | ✅           | ❌❌         | ✅✅         | ✅✅ (souplissime) | ✅✅         | ✅✅ (flexible) |
+| Durée 10 ans UV + intempéries/neige  | ✅✅ (UV top + CF boost) | ✅ (bon UV, CF aide) | ❌ (dégrade) | ❌ (jaunit/craque) | ❌❌ (détruit vite) | ✅✅ (UV leader) | ✅ (bon, mais moins UV) | ❌ (jaunit après années) | ❌ / ✅ (si PA12, bon si protégé) |
+| Étanchéité / neige & humidité        | ✅✅ (~0.3-0.5% absorption) | ✅✅ (hydrophobe) | ✅           | ✅           | ❌ (gonfle)  | ✅           | ✅ (mais hygro) | ✅✅ (très hydrophobe) | ❌ (absorbe beaucoup, sauf PA12) |
+| Reste étanche/dimension stable longtemps | ✅✅         | ✅✅         | ✅           | ✅ (shrink)  | ❌           | ✅✅         | ✅           | ✅✅         | ❌ (sauf PA12) |
+| Facile à imprimer                    | ❌ (boîtier + nozzle hard) | ❌ (abrasif) | ✅           | ❌ (warping) | ✅✅ (facile) | ❌ (boîtier) | ❌❌ (dur)   | ✅✅ (facile) | ❌ (séchage + boîtier) |
+| Rigidité / résistance chocs au froid | ✅✅ (très rigide) | ✅✅ (boost CF) | ✅           | ✅           | ✅ / ❌ (cassant) | ✅           | ✅✅ (top chocs) | ✅           | ✅✅ (abrasion + flex) |
 
-A noter que des filaments dit "chargés" existes ex: ASA-CF (Asa chargé fibre carbone)
+**Verdict rapide pour ton usage (-30°C, neige, 10 ans dehors)**  
+✅ **ASA-CF** → Le gagnant global : UV imbattable (10+ ans dehors sans jaunir/craquer), faible absorption humidité, tient -30°C sans casser, rigidité boostée par CF. Idéal pour pièces exposées neige/soleil (ex: boîtiers, supports extérieurs).  
+
+✅ **PETG-CF** → Très bon compromis : super hydrophobe (ne gonfle pas en neige), flexible au froid, UV correct (mieux que PETG std), facile relatif. Moins cher/simple que ASA-CF.  
+
+✅ **PC** → Si priorises chocs violents au froid extrême (reste souple, pas cassant).  
+
+✅ **ASA (std)** → Si pas besoin de CF ultra-rigide, c'est le roi UV/long terme sans complications.  
+
+❌ **PLA / ABS / PET** → À éviter pour 10 ans dehors ou froid extrême (cassent/jaunissent/dégradent).  
+
+❌ **Nylon** → OK si PA12 (faible humidité), sinon absorbe trop l'eau en neige → gonfle/déforme.  
+
+Pour max étanchéité/UV sur 10 ans, coating époxy ou peinture UV après impression. ASA-CF + coating = quasi-indestructible en environnement neigeux !
 
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
