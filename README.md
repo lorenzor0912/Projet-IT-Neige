@@ -25,6 +25,7 @@
   - [Stockage 💾](#Stockage)
   - [Batterie 🔋](#Batterie)
   - [Fonction Webcam Possible ? 🎥](#Webcam)
+  - [Matériaux](#Matériaux)
 - [Software 🦠](#hardware) 
 
 ## Hardware 🛠️
@@ -155,6 +156,23 @@ certains carte all in one on meme des mini camera (par ex waveshare) donc peut s
 [Waveshare Demo](https://www.youtube.com/watch?v=z_u_RoW-mEs)
 
 ![Image Alt](https://github.com/lorenzor0912/Projet-IT-Neige/blob/d28ecf070d6103b8d8a0e5f1bddaf87ee4db1f34/ReadMe_IMG/Waveshare%20Cam.jpg)
+
+
+
+### Matériaux
+
+| Critère                        | ASA                  | Polycarbonate (PC)   | PETG                 | Nylon                | Gagnant              |
+|--------------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| Résistance au froid (-30°C)    | Très bonne           | Excellente (reste souple) | Bonne                | Bonne (mais absorbe l'humidité) | **PC** ✅            |
+| Tenue longue durée (10 ans UV + intempéries) | Excellente (UV top) | Très bonne           | Moyenne (jaunit / craque) | Moyenne à bonne      | **ASA** ✅           |
+| Étanchéité / Résistance neige & humidité | Très bonne           | Bonne (mais hygroscopique) | Excellente           | Moyenne (absorbe beaucoup) | **PETG** / **ASA** (ex aequo) |
+| Facilité d'impression          | Moyenne (boîtier conseillé) | Difficile (très chaud + boîtier) | Facile               | Difficile (séchage obligatoire) | **PETG** ✅          |
+| Résistance globale chocs/froid + UV | Très bonne           | Top chocs            | Bonne                | Très bonne abrasion  | **ASA** / **PC**    |
+| **Verdict pour ton usage neigeux -30°C / 10 ans** | ⭐⭐⭐⭐½           | ⭐⭐⭐⭐½               | ⭐⭐⭐                 | ⭐⭐½                  | **ASA** ✅ (le plus équilibré) |
+
+**Grand gagnant global** : **ASA**  
+→ Meilleur compromis UV / intempéries / froid pour du long terme en extérieur enneigé sans trop de complications.  
+Si besoin d'un max de résistance aux chocs violents au froid extrême → **PC** est un très bon second choix (mais plus chiant à imprimer).
 
 
 <div style="line-height: 0.9; font-family: 'Courier New', Courier, monospace; white-space: pre; color: #d0d0d0;">
