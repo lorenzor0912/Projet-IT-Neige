@@ -168,7 +168,7 @@ certains carte all in one on meme des mini camera (par ex waveshare) donc peut s
 | Étanchéité / Résistance neige & humidité | Très bonne           | Bonne (mais hygroscopique) | Excellente           | Moyenne (absorbe beaucoup) | **PETG** / **ASA** (ex aequo) |
 | Facilité d'impression          | Moyenne (boîtier conseillé) | Difficile (très chaud + boîtier) | Facile               | Difficile (séchage obligatoire) | **PETG** ✅          |
 | Résistance globale chocs/froid + UV | Très bonne           | Top chocs            | Bonne                | Très bonne abrasion  | **ASA** / **PC**    |
-| **Verdict pour ton usage neigeux -30°C / 10 ans** | ⭐⭐⭐⭐½           | ⭐⭐⭐⭐½               | ⭐⭐⭐                 | ⭐⭐½                  | **ASA** ✅ (le plus équilibré) |
+| **Verdict pour notre usage neigeux -30°C / 10 ans** | ⭐⭐⭐⭐½           | ⭐⭐⭐⭐½               | ⭐⭐⭐                 | ⭐⭐½                  | **ASA** ✅ (le plus équilibré) |
 
 **Grand gagnant global** : **ASA**  
 → Meilleur compromis UV / intempéries / froid pour du long terme en extérieur enneigé sans trop de complications.  
