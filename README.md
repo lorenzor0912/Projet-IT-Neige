@@ -73,7 +73,7 @@ Voici une version améliorée de vos tableaux pour un README GitHub plus fluide 
 
 ---
 
-## Comparaison des cartes ESP32 avec 4G/GPS intégrés
+### Comparaison des cartes ESP32 avec 4G/GPS intégrés
 
 | Carte / Module                        | ESP32       | 4G              | GPS          | microSD | Batterie 18650 + charge | Prix approx. (2026) | Quand choisir cette carte ?                                                                 |
 |---------------------------------------|-------------|-----------------|--------------|---------|--------------------------|---------------------|---------------------------------------------------------------------------------------------|
@@ -85,9 +85,8 @@ Voici une version améliorée de vos tableaux pour un README GitHub plus fluide 
 
 ---
 
-## Est-ce possible avec un Arduino classique ?
+### Est-ce possible avec un Arduino classique ?
 
-### Comparaison : ESP32 tout-en-un vs Arduino Uno/Mega + modules séparés
 
 | Critère                         | LILYGO T-A7670G ou Waveshare ESP32-S3 | Arduino Uno/Mega + modules séparés | Limitations de l'Arduino classique |
 |---------------------------------|----------------------------------------|------------------------------------|------------------------------------|
@@ -112,7 +111,7 @@ Voici une version améliorée de vos tableaux pour un README GitHub plus fluide 
 
 ---
 
-## Ce qui est possible avec un Arduino Uno/Mega
+### Ce qui est possible avec un Arduino Uno/Mega
 
 ### En théorie, ça marche !
 
