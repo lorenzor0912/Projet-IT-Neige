@@ -69,8 +69,6 @@ SEN0313 par DF Robot aussi connu sous A01NYUB (identique) [DF Robot](https://www
 
 All in One (Esp seulement)
 
-Voici une version améliorée de vos tableaux pour un README GitHub plus fluide et naturel :
-
 ---
 
 ### Comparaison des cartes ESP32 avec 4G/GPS intégrés
