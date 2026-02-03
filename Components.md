@@ -24,7 +24,6 @@ Meshtastic = **seulement la fréquence autorisée dans ton pays** (et il refuse 
 |---|---|---|---|---|---|---|
 |**EU_868**|868 MHz|869.4 – 869.65 MHz|869.525 MHz|+27 dBm (500 mW ERP)|10 % par heure|**Très recommandée** – La plus utilisée, meilleure portée, réseau le plus actif|
 |**EU_433**|433 MHz|433.0 – 434.0 MHz|433.875 MHz (slot 4)|+12 dBm (16 mW)|10 % par heure|Possible, mais **moins utilisée** – Portée plus courte, peu de nœuds|
-A bien respecter sinon l'Arcom vont se faire un malin plaisir a coller un amende a 5 chiffres même si dans le 06 ces personnes semble être absente (par expérience).
 
 Différentes cartes retenues
 
