@@ -39,10 +39,10 @@ Bien que LoRa puisse techniquement fonctionner sur 8 bandes différentes (433 MH
 
 ### Bandes utilisables en France
 
-| Région Meshtastic | Bande principale | Fréquence autorisée | Fréquence par défaut (reset) | Puissance max | Duty cycle | Utilisation en France |
+| Région Meshtastic | Bande principale | Fréquence autorisée | Fréquence par défaut (reset) | Duty cycle | Utilisation en France |
 |---|---|---|---|---|---|---|
-| **EU_868** | 868 MHz | 869.4 – 869.65 MHz | 869.525 MHz | +27 dBm (500 mW ERP) | 10% par heure | **Très recommandée** – La plus utilisée, meilleure portée, réseau le plus actif |
-| **EU_433** | 433 MHz | 433.0 – 434.0 MHz | 433.875 MHz (slot 4) | +12 dBm (16 mW) | 10% par heure | Possible, mais **moins utilisée** – Portée plus courte, peu de nœuds |
+| **EU_868** | 868 MHz | 869.4 – 869.65 MHz | 869.525 MHz | +27 dBm (500 mW ERP) | **Très recommandée** – La plus utilisée, meilleure portée, réseau le plus actif |
+| **EU_433** | 433 MHz | 433.0 – 434.0 MHz | 433.875 MHz (slot 4) | +12 dBm (16 mW) | Possible, mais **moins utilisée** – Portée plus courte, peu de nœuds |
 
 ---
 
