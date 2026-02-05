@@ -485,7 +485,7 @@ Ce projet est sous licence **GNU General Public License v3.0** - voir le fichier
   height="600" />
 
 <p align="center">
-  <strong>Si tu est arrivé jusque la bah ok!</strong>
+  <strong>Merci!</strong>
 </p>
 
 </div>
@@ -495,5 +495,5 @@ Ce projet est sous licence **GNU General Public License v3.0** - voir le fichier
 </div>
 
 <div align="right">
-  <a href="#top">↑ Raccoursi tres rapide super mega rapide</a>
+  <a href="#top">↑ Raccoursi tres rapide super mega rapide trop rapide</a>
 </div>
